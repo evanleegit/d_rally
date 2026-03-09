@@ -1,0 +1,4 @@
+url,start,end
+https://www.youtube.com/watch?v=5gJxWIybplc,0:30,1:45
+# add more rows below — start/end are optional (leave blank for full video)
+# https://www.youtube.com/watch?v=abc123,2:00,3:30
